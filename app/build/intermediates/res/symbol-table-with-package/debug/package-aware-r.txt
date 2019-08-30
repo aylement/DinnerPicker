@@ -1308,7 +1308,6 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
-string Chinese
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1367,6 +1366,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string searchFood
 string search_menu_title
+string selectedFoodText
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

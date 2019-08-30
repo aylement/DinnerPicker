@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Décider le dîner</string>
     <string name="foodLogo">foodLogo</string>
-    <string name="Chinese">Chinois</string>
+    <string name="selectedFoodText"></string>
     <string name="searchFood">Il est l\'heure de choisir!</string>
     <string name="addFood">Ajouter un choix</string>
     <string name="addNewFood">Entrer le type de resto</string>
