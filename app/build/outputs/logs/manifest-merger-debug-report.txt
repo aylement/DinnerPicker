@@ -70,9 +70,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\CR
 	android:label
 		ADDED from C:\Users\CRM\Desktop\DinnerPicker\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\CRM\Desktop\DinnerPicker\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\CRM\Desktop\DinnerPicker\app\src\main\AndroidManifest.xml:9:9-56
 	android:icon
-		ADDED from C:\Users\CRM\Desktop\DinnerPicker\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\CRM\Desktop\DinnerPicker\app\src\main\AndroidManifest.xml:7:9-45
 	android:allowBackup
 		ADDED from C:\Users\CRM\Desktop\DinnerPicker\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme

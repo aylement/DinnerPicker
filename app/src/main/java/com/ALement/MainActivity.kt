@@ -21,10 +21,15 @@ class MainActivity : AppCompatActivity() {
         }
         addFoodBtn.setOnClickListener {
             val newFood = addFoodText.text.toString()
-            foodList.add(newFood)
-            addFoodText.text.clear()
-            println(foodList)
+            if(newFood.length >= 2){
+                foodList.add(newFood)
+                addFoodText.text.clear()
+            }else{
+                addFoodText.setError("Le nom doit contenir 2 caractères minimum!")
+            }
 
         }
     }
+
+
 }

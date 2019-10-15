@@ -44,7 +44,8 @@
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        />
 
     <EditText
         android:id="@+id/addFoodText"
@@ -68,6 +69,7 @@
         android:layout_marginBottom="80dp"
         android:background="@color/colorPrimary"
         android:fontFamily="@font/muli_bold"
+        android:onClick="tutu"
         android:text="@string/addFood"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toTopOf="@+id/choiceBtn"

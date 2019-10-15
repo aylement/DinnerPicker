@@ -4670,8 +4670,9 @@ public final class R {
     public static final int notification_template_icon_low_bg=0x7f080075;
     public static final int notification_tile_bg=0x7f080076;
     public static final int notify_panel_notification_icon_bg=0x7f080077;
-    public static final int tooltip_frame_dark=0x7f080078;
-    public static final int tooltip_frame_light=0x7f080079;
+    public static final int pika_launcher_background=0x7f080078;
+    public static final int tooltip_frame_dark=0x7f080079;
+    public static final int tooltip_frame_light=0x7f08007a;
   }
   public static final class font {
     public static final int muli_bold=0x7f090000;
@@ -4965,6 +4966,9 @@ public final class R {
   public static final class mipmap {
     public static final int ic_launcher=0x7f0e0000;
     public static final int ic_launcher_round=0x7f0e0001;
+    public static final int pika_launcher=0x7f0e0002;
+    public static final int pika_launcher_foreground=0x7f0e0003;
+    public static final int pika_launcher_round=0x7f0e0004;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0f0000;
